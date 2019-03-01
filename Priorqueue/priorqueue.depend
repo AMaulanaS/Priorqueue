@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1352610838 source:c:\users\asus\desktop\priorqueue\priorqueue.c
+	"priorqueue.h"
+
+1352610839 c:\users\asus\desktop\priorqueue\priorqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1352610562 source:c:\users\asus\desktop\priorqueue\main.c
+	"priorqueue.h"
+
+1352610854 source:e:\tugas kuliah\struktur data\struktur data lab\psda 12\psda12b\priorqueue\main.c
+	"priorqueue.h"
+
+1352610840 e:\tugas kuliah\struktur data\struktur data lab\psda 12\psda12b\priorqueue\priorqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1352610840 source:e:\tugas kuliah\struktur data\struktur data lab\psda 12\psda12b\priorqueue\priorqueue.c
+	"priorqueue.h"
+
